@@ -1,2 +1,0 @@
-abstact
-child

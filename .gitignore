@@ -1,1 +1,5 @@
 temp/*
+src/*
+config.py
+old.zip
+__pycache__
